@@ -1,0 +1,25 @@
+2022-10-13 11:16:30.937 +03:00 [INF] Now listening on: https://localhost:7071
+2022-10-13 11:16:30.989 +03:00 [INF] Now listening on: http://localhost:5070
+2022-10-13 11:16:30.995 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-13 11:16:30.995 +03:00 [INF] Hosting environment: Development
+2022-10-13 11:16:30.996 +03:00 [INF] Content root path: C:\Users\DELL\Downloads\AHOYProductAPI-master\AHOYProductAPI-master\HotelListing.API\
+2022-10-13 11:17:43.340 +03:00 [INF] Now listening on: https://localhost:7071
+2022-10-13 11:17:43.375 +03:00 [INF] Now listening on: http://localhost:5070
+2022-10-13 11:17:43.382 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-13 11:17:43.382 +03:00 [INF] Hosting environment: Development
+2022-10-13 11:17:43.383 +03:00 [INF] Content root path: C:\Users\DELL\Downloads\AHOYProductAPI-master\AHOYProductAPI-master\HotelListing.API\
+2022-10-13 16:39:31.412 +03:00 [INF] Now listening on: https://localhost:7071
+2022-10-13 16:39:31.453 +03:00 [INF] Now listening on: http://localhost:5070
+2022-10-13 16:39:31.461 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-13 16:39:31.461 +03:00 [INF] Hosting environment: Development
+2022-10-13 16:39:31.462 +03:00 [INF] Content root path: C:\Users\DELL\Downloads\AHOYProductAPI-master\AHOYProductAPI-master\HotelListing.API\
+2022-10-13 16:40:12.622 +03:00 [INF] Now listening on: https://localhost:7071
+2022-10-13 16:40:12.657 +03:00 [INF] Now listening on: http://localhost:5070
+2022-10-13 16:40:12.664 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-13 16:40:12.665 +03:00 [INF] Hosting environment: Development
+2022-10-13 16:40:12.665 +03:00 [INF] Content root path: C:\Users\DELL\Downloads\AHOYProductAPI-master\AHOYProductAPI-master\HotelListing.API\
+2022-10-13 16:44:58.499 +03:00 [INF] Now listening on: https://localhost:7071
+2022-10-13 16:44:58.536 +03:00 [INF] Now listening on: http://localhost:5070
+2022-10-13 16:44:58.542 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-13 16:44:58.543 +03:00 [INF] Hosting environment: Development
+2022-10-13 16:44:58.543 +03:00 [INF] Content root path: C:\Users\DELL\Downloads\AHOYProductAPI-master\AHOYProductAPI-master\HotelListing.API\
